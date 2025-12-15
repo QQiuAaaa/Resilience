@@ -1,46 +1,53 @@
 [
   {
-    "name": "移植包固件 - ColorOS 16-20251126-by@秋詞",
-    "model": "一加Ace Pro",
+    "name": "移植包固件 - ColorOS 16-20251126-酷安@秋詞",
+    "model": "一加 Ace Pro",
     "url": "http://kcnb.qutama.de:2086/d/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/%E5%90%8C%E6%AD%A5%E7%9B%98/%E7%8E%A9%E6%9C%BA%E6%96%87%E4%BB%B6%E7%AB%99/3.%E8%B5%84%E6%BA%90/Tobapuw%E7%9A%84%E8%B5%84%E6%BA%90/%E7%A7%8B%E8%A9%9E%E5%AE%98%E6%94%B9/AcePro_ColorOS16_%E7%A7%8B%E8%A9%9E_20251126%E9%95%9C%E5%83%8F.7z",
     "notes": "版本更新日志 -ColorOS 16-1126\n同步移植包一加15\n移植机型已更换，刷入后会掉q微登录 刷入前自行处理账号问题(不看别叫)\n升级至 ColorOS 16.0.1.301版本（正式版）\n底包基于官方15.0.0.1301\n建议在C15官方最新版本和移植升级\n更新：\n修复杜比音效\n修复Ai消除(@Lucky666A )\n修复刷新率无法降低至60Hz\n添加超级闪充紫色显示\n添加最近任务运行内存显示\n添加电池健康度计算显示(@NatsuYuki)\n添加伞姨C16安装器\n添加 Ai大神辅助 召唤师技能倒计时(@Lucky666A )\n添加HDR显示(有效果但是会发黄)\n移除全天候息屏(效果不行但是会导致问题)\n其余更新跟随一加15官方更新\n注意：\n刷此包请使用magisk管理器/最新版本KSU，否则会出现各种未知问题\n本包不带root，需要的自己修补\n请不要将此包外传，因为有验证\n从未登记过的不能刷入此包 否则会循环重启\n不看说明者后果自负"
   },
   {
+    "name": "官方固件 - ColorOS 15.0.0.1601",
+    "model": "一加 Ace Pro",
+    "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8f655c1c901d7baf322c099d2f0ca40a/component-ota/25/11/25/72e3c694ee6c45a49fa64363e8acf229.zip",
+    "notes": ""
+  },  
+  {
     "name": "官方固件 - ColorOS 15.0.0.1301",
-    "model": "一加Ace Pro",
+    "model": "一加 Ace Pro",
     "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-5986cdca3cc317e6815053307fea9fc0/component-ota/25/09/10/b33534b89b2b413a83ee65b9f34bb26a.zip",
     "notes": ""
   },
   {
-    "name": "官方固件 - ColorOS 15.0.0.1102",
-    "model": "一加Ace Pro",
+    "name": "官方固件 - ColorOS 15.0.0.1002",
+    "model": "一加 Ace Pro",
     "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9b7dd02693e611cc9f2ef3e13087992b/component-ota/25/06/16/549c4cc4f6904c82b57e7b5d24af9fd1.zip",
     "notes": ""
   },
   {
     "name": "官方固件 - ColorOS 15.0.0.700",
-    "model": "一加Ace Pro",
+    "model": "一加 Ace Pro",
     "url": "https://gauss-opexcostmanual-cn.allawnfs.com/remove-5ec8280ace533f877101fa808442813e/component-ota/25/04/09/c48a6ad2da74416aa493b08e89348875.zip",
     "notes": ""
   },
   {
     "name": "官方固件 - ColorOS 15.0.0.500",
-    "model": "一加Ace Pro",
+    "model": "一加 Ace Pro",
     "url": "https://gauss-compotacostauto-cn.allawnfs.com/remove-d1d0dc96a32028ea594ae1b9136acaa1/component-ota/25/02/26/02967acaa0ca4bdfa92f9674a3248fea.zip",
     "notes": ""
   },
   {
     "name": "官方固件 - ColorOS 14.0.0.706",
-    "model": "一加Ace Pro",
+    "model": "一加 Ace Pro",
     "url": "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b90c7117b4605004fa33bd74a160fb26/component-ota/24/12/09/b6b4e4966f6245819b430854cfc80e51.zip",
     "notes": ""
   },
   {
     "name": "官方固件 - ColorOS 13.1.183 TWRP可卡刷",
-    "model": "一加Ace Pro",
+    "model": "一加 Ace Pro",
     "url": "https://downgradefs.coloros.com/downgrade/23/08/29/74c9291df6de455bbc08ef38ec6a2984.zip",
     "notes": ""
   }
 ]
+
 
 
