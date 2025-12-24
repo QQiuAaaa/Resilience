@@ -1,5 +1,11 @@
 [
   {
+    "name": "一加Ace 6T原神神里绫华定制机-全局主题补丁",
+    "model": "一加 Ace Pro、一加Ace2",
+    "url": "https://kc.fuquan.moe/d/%E5%90%8C%E6%AD%A5%E7%9B%98/%E7%8E%A9%E6%9C%BA%E6%96%87%E4%BB%B6%E7%AB%99/3.%E8%B5%84%E6%BA%90/Tobapuw%E7%9A%84%E8%B5%84%E6%BA%90/%E7%A7%8B%E8%A9%9E%E5%AE%98%E6%94%B9/my_company.zip",
+    "notes": "使用方法：\n1.必须为ColorOS16的任意版本\n2.使用工具箱中的杂项-单分区刷入功能，选择my_company分区，选中解压后的img文件\n模式选择fastbootd后刷入分区\n刷入后首次开机可能较慢请耐心等待\n开机后即可享受全局主题（需手动设置）"
+  },
+  {
     "name": "移植包固件 - ColorOS 16-20251207-酷安@秋詞",
     "model": "一加 Ace Pro",
     "url": "https://kc.fuquan.moe/d/%E5%90%8C%E6%AD%A5%E7%9B%98/%E7%8E%A9%E6%9C%BA%E6%96%87%E4%BB%B6%E7%AB%99/3.%E8%B5%84%E6%BA%90/Tobapuw%E7%9A%84%E8%B5%84%E6%BA%90/%E7%A7%8B%E8%A9%9E%E5%AE%98%E6%94%B9/AcePro_ColorOS16_%E7%A7%8B%E8%A9%9E_20251207%E9%95%9C%E5%83%8F%E5%8C%85.7z",
@@ -54,6 +60,7 @@
     "notes": ""
   }
 ]
+
 
 
 
